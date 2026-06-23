@@ -1,10 +1,10 @@
-name: Java CI with Gardel
+name: Java CI with Gardle
 
 on:
   push:
-    branches: [ masetr ]
+    branches: [ master ]
   pull_request:
-    branches: [ masetr ]
+    branches: [ master ]
 
 jobs:
   build:
